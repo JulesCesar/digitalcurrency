@@ -1,0 +1,38 @@
+.card-container {
+    /* background: #252E37; */
+    /* overflow: hidden; */
+    /* padding: 24px; */
+  }
+  .card-container > .ant-tabs-card > .ant-tabs-content {
+    height: 120px;
+    margin-top: -16px;
+  }
+  
+  .card-container > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+    background: #252E37;
+    padding: 16px;
+  }
+  
+  .card-container > .ant-tabs-card > .ant-tabs-bar {
+    border-color: #fff;
+  }
+  
+  .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+    border-color: transparent;
+    background: transparent;
+  }
+  
+  .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active {
+    border-color: #fff;
+    background: #252E37;
+  }
+  .bitform{
+  
+  }
+  .bittab{
+      width:1792px;
+      height:493px;
+      margin: 55.5px auto;
+      background: #252E37;
+      box-shadow: 0 0 8px 4px rgba(91,83,83,0.03);
+  }

@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+}
+h2,h3,h4,h5{
+    color:#fff !important;
+    margin-bottom: 0;
+}
+html,body,wrapper{
+height:100%;
+}
+
+.ant-layout{
+}
+.ant-layout-footer{
+
+}
+.lunboliner{
+    text-align: center;
+    height: 54px;
+    background: #1d2441;
+    color:#fff;
+}
+.ant-breadcrumb{
+    color:#fff !important;
+}
+.ant-breadcrumb > span:last-child{
+    color:#fff !important;
+}
+.ant-breadcrumb-separator {
+    margin: 0 40px !important;
+    color: #fff !important;
+}
+
+.record {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 5px 0;
+  }
+  
+  ul.record:hover {
+    background: #2D333B;
+  }
+  .record-title {
+    margin-top: 15px;
+  }
+  
+  .record.record-title li {
+    color: #676F78;
+  }
+  .list-data{
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.record li {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    text-align: left;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: column;
+    flex-flow: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #ECECEC;
+    width: 275px;
+  }
+  
+  .record .star-wrapper {
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-preferred-size: 3em;
+    flex-basis: 3em;
+    position: relative;
+  }
+  .record .star-wrapper {
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-preferred-size: 3em;
+    flex-basis: 3em;
+    position: relative;
+  }
+  .record .text-center {
+    text-align: center;
+  }
+.list-data::-webkit-scrollbar
+{
+  
+  display: none;
+}  
+
+.ant-tabs-nav .ant-tabs-tab-active {
+    color: #b2b6d6 !important;
+    font-weight: 500;
+}
+.ant-tabs-nav .ant-tabs-tab:hover{
+    color: #b2b6d6 !important;
+}
+.ant-tabs-nav .ant-tabs-tab{
+    color: #fff;
+}
+.ant-tabs-bar{
+    border-bottom: 1px solid #47474a;
+}
+.ant-tabs-ink-bar{
+    background-color: #b2b6d6 !important;
+}
+.bannertitle{
+    margin: 100px 100px;
+    text-align: center;
+    height: 54px;
+    color:#fff;
+}
+.bannerbottom{
+    margin: 100px 100px;
+    text-align: center;
+    color:#fff;
+}
+.solet-text{
+    margin-top: 160px;
+
+}
+.titleleft{
+    font-family: PingFangSC-Semibold;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: right;
+}
+.titletdos{
+    font-family: PingFangSC-Ultralight;
+    font-size: 16px;
+    color: rgba(-2147483648,-2147483648,-2147483648,0.60);
+    letter-spacing: 0;
+    line-height: 45px;
+    text-align: right;
+    margin-top: -25px;
+}
+.titletres{
+    font-family: PingFangSC-Regular;
+    font-size: 24px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: right;
+    margin-top:10px;
+}
+
+.solet-text2{
+
+    margin-top: 160px;
+
+}
+.titleleft2{
+    font-family: PingFangSC-Semibold;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: left;
+}
+.titletdos2{
+    font-family: PingFangSC-Ultralight;
+    font-size: 16px;
+    color: rgba(-2147483648,-2147483648,-2147483648,0.60);
+    letter-spacing: 0;
+    line-height: 45px;
+    margin-top: -25px;
+    text-align: left;
+}
+.titletres2{
+    font-family: PingFangSC-Regular;
+    font-size: 24px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: left;
+    margin-top:10px;
+}
+
+.ant-layout-footer{
+    /* background: #252e37 !important; */
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected, .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected{
+    background-color: #86939e !important;
+}
+.ant-carousel .slick-dots li{
+    margin: -60px 6px 0 6px !important;
+}
+.ant-carousel .slick-dots li button{
+    height: 10px !important;
+    border-radius: 1000px !important;
+}
+
+
+
+.slidermartheight img{
+    width:100%;
+    height: 100%;
+}
+.slidermartheight1{
+    position:relative;overflow:hidden;
+  
+    height: 600px;
+}
+.slidermartheight2{
+    position:relative;overflow:hidden;
+    height: 600px;
+}
+.slidermartheight3{
+    position:relative;overflow:hidden;
+    height: 600px;
+}
+.slidermartheight4{
+    position:relative;overflow:hidden;
+    height: 600px;
+}
